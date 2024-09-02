@@ -1,0 +1,1 @@
+minto_application
